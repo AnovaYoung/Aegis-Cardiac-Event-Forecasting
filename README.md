@@ -60,6 +60,20 @@ aegis-survival-lab/
 ├── README.md
 └── requirements.txt
 
+# Citations
+
+1.	MIMIC-IV v3.1 citation
+
+Johnson, A., et al. MIMIC-IV (version 3.1). PhysioNet, 2024. https://doi.org/10.13026/kpb9-mt58
+
+2.	MIMIC-IV general citation
+
+Johnson, A.E.W., et al. MIMIC-IV: A freely accessible electronic health record dataset. Sci Data 10, 1 (2023). https://doi.org/10.1038/s41597-022-01899-x
+
+3.	PhysioNet platform
+
+Goldberger, A., et al. PhysioBank, PhysioToolkit, and PhysioNet. Circulation 101(23), e215–e220 (2000).
+
 ---
 
 ## Getting Started
@@ -97,6 +111,7 @@ Future Work
 	•	Transfer learning from ICU to outpatient settings
 
 ⸻
+
 
 License
 
